@@ -1,4 +1,4 @@
-# Risk of Rain Returns 正體中文模組
+# Risk of Rain Returns - Traditional Chinese 正體中文模組
 
 ## 使用說明
 
