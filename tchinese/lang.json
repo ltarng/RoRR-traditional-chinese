@@ -93,7 +93,7 @@
 		},
 		"notif": {
 			"checkpoint": "已抵達檢查點！",
-			"gupcount_reset": "謎題已無法完成。重置中……",
+			"gupcount_reset": "謎題已無法完成。重設中……",
 			"wave": "第%s波",
 			"lap": "第%s圈"
 		},
@@ -330,7 +330,7 @@
 		"drifterknife_hint3": "強力幽魂每隔一段時間會定期生成。",
 		"banditwhip_hint": "城堡的道具都<y>隱藏在牆壁中</c>。",
 		"gupcount_hint1": "加普的偵測範圍極小。",
-		"gupcount_hint2": "如果進入了無法復原的試煉狀態，敵人將會重置。",
+		"gupcount_hint2": "如果進入了無法復原的試煉狀態，敵人將會重設。",
 		"meteor_hint": "敵人掉落的金幣量會根據它們的危險程度增加。",
 		"cheflem_hint": "<y>獎勵時間拾取道具</c>會被定期生成，並在<r>7秒後消失</c>。",
 		"chefcook_hint": "道具會被定期生成。",
@@ -532,7 +532,7 @@
 			"title": "暫停",
 			"mpTitle": "P%s暫停",
 
-			"resume": "恢復",
+			"resume": "繼續",
 			"options": "設定",
 			"quit": "返回標題畫面",
 			"trialsRetry": "重試",
@@ -544,7 +544,7 @@
 		},
 
 		"options": {
-			"popupConfirm": "確認變更？\n<ud>變更將於%s後重置。",
+			"popupConfirm": "確認變更？\n<ud>變更將於%s後重設。",
 
 			"headerGeneral": "一般",
 
@@ -625,15 +625,15 @@
 			"gamepad.index": "%s（%s）",
 
 			"resetDefault": "將控制選項恢復至預設值",
-			"resetDefault.desc": "將所有控制選項重置為最初的預設組合。",
-			"resetControlsWarning": "此操作將使你的所有控制組合重置為預設值。\n<fntNormal>\n<fntLarge>確定繼續？",
+			"resetDefault.desc": "將所有控制選項重設為最初的預設組合。",
+			"resetControlsWarning": "此操作將使你的所有控制組合重設為預設值。\n<fntNormal>\n<fntLarge>確定繼續？",
 
 			"toggleButtonFormat": "按%s切換。",
 
 			"headerFirstTimeSetup": "初次設定",
 			"headerDefaultControls": "預設鍵盤控制組合",
 			"controlCustomizeNote": "你可以隨時在選項選單中調整控制選項。",
-			"headerResetKeyboardControls": "重置鍵盤控制組合",
+			"headerResetKeyboardControls": "重設鍵盤控制組合",
 
 			"replayTutorial": "遊玩教學",
 			"replayTutorial.desc": "選擇此選項開始遊玩教學。",
@@ -670,9 +670,9 @@
 			"headerDeadzone": "%s的死區設定",
 			"headerDeadzoneDefault": "預設死區設定",
 
-			"resetDeadzones": "重置死區設定為預設值",
-			"resetDeadzones.desc": "將你的所有死區設定重置回系統的預設值。",
-			"resetDeadzonesWarning": "<y>警告！\n<fntNormal></c>\n<fntLarge>此操作將使你的所有死區設定重置為預設。\n<fntNormal>\n<fntLarge>確定繼續？",
+			"resetDeadzones": "重設死區設定為預設值",
+			"resetDeadzones.desc": "將你的所有死區設定重設回系統的預設值。",
+			"resetDeadzonesWarning": "<y>警告！\n<fntNormal></c>\n<fntLarge>此操作將使你的所有死區設定重設為預設。\n<fntNormal>\n<fntLarge>確定繼續？",
 			"mainDeadzone": "內圈死區",
 			"mainDeadzone.desc": "內圈死區決定了你的控制器發送方向輸入訊號時的靈敏度。如果你的控制器在閒置時會發送隨機輸入訊號，請嘗試提高該數值。",
 			"horzDeadzone": "水平死區",
@@ -970,7 +970,7 @@
 
 			"newPrompt": "輸入新檔案名稱。",
 
-			"resetControlsWarning": "這會將全部的控制設定為重置為預設值。\n<lt>你確定嗎？",
+			"resetControlsWarning": "這會將全部的控制設定為重設為預設值。\n<lt>你確定嗎？",
 			"deleteProfileWarning": "刪除該檔案？",
 
 			"errorMaxProfiles": "已達檔案上限。",
@@ -1186,8 +1186,8 @@
 		},
 		"snakeEyes": {
 			"name": "蛇眼",
-			"pickup": "在啟動聖壇失敗時會提高發動暴擊的機率。\n效果會在關卡之間被重置。",
-			"description": "<b>啟動聖壇失敗</c>將使<y>暴擊機率</c>提高<y>7%<c_stack>（每層+7%）</c>，效果至多堆疊<y>6層</c>。關卡開始時重置效果。",
+			"pickup": "在啟動聖壇失敗時會提高發動暴擊的機率。\n效果會在關卡之間被重設。",
+			"description": "<b>啟動聖壇失敗</c>將使<y>暴擊機率</c>提高<y>7%<c_stack>（每層+7%）</c>，效果至多堆疊<y>6層</c>。關卡開始時重設效果。",
 			"destination": "金星\nGMG服務\n1843",
 			"date": "2056/1/1",
 			"story": "你這畜---------的。你明明知道我得靠贏下獎金來還債。你是不是跟賭場串通好了？我果然沒猜錯，吃裡扒外的毒蛇。這骰子絕對灌了鉛，每把都是1加1。算你狠，---------的。\n\n我來找你了，----。"
@@ -1777,8 +1777,8 @@
 		},
 		"giganticAmethyst": {
 			"name": "巨型紫水晶",
-			"pickup": "重置你所有的冷卻時間。",
-			"description": "<b>重置所有冷卻時間</c>。",
+			"pickup": "重設你所有的冷卻時間。",
+			"description": "<b>重設所有冷卻時間</c>。",
 			"destination": "地球\n稜鏡塔\n第五休士頓大街\n格瑞文坎普",
 			"date": "2056/5/12",
 			"story": "我猜這東西應該是用來聚焦雷射的。總而言之，這是我到目前為止發現的最大塊的。除了就連我也沒辦法弄到的雷射紫水晶王冠之外，這大概是最能滿足你的需求的了。有了這個你應該就能夠達到極致品質了，祝你好運！"
@@ -2732,11 +2732,11 @@
 		},
 		"banditV": {
 			"name": "熄燈時間",
-			"description": "發動1次<y>500%傷害</c>的爆頭射擊。如果該能力<r>殺死1名敵人</c>，盜賊的<b>所有冷卻時間重置為0。</c>"
+			"description": "發動1次<y>500%傷害</c>的爆頭射擊。如果該能力<r>殺死1名敵人</c>，盜賊的<b>所有冷卻時間重設為0。</c>"
 		},
 		"banditVBoosted": {
 			"name": "暗殺",
-			"description": "發動1次<y>2x500%傷害</c>的爆頭射擊。如果該能力<r>殺死1名敵人</c>，盜賊的<b>所有冷卻時間重置為0。</c>"
+			"description": "發動1次<y>2x500%傷害</c>的爆頭射擊。如果該能力<r>殺死1名敵人</c>，盜賊的<b>所有冷卻時間重設為0。</c>"
 		},
 		"banditZ2": {
 			"name": "鞭擊",
@@ -3477,7 +3477,7 @@
 		"unlock_pillaged.name": "亡命之徒",
 		"unlock_pillaged.description": "盜賊：使用「熄燈時間」技能殺死1名頭目。",
 		"unlock_hitlist.name": "經典之人",
-		"unlock_hitlist.description": "盜賊：連續15次重置自身冷卻時間。",
+		"unlock_hitlist.description": "盜賊：連續15次重設自身冷卻時間。",
 		"unlock_firemans.name": "泡湯時刻",
 		"unlock_firemans.description": "在岩漿中存活整整1分鐘。",
 		"unlock_toxin.name": "變種基因",
