@@ -3229,7 +3229,8 @@
 		"playerDroneZ": {
 			"name": "開火",
 			"description": "射擊一次，造成<y>80%傷害</c>。"
-		},
+		}
+	},
 	"survivor": {
 		"chef": {
 			"endQuote": "……於是它離開了，徹底遺忘了當初的目的。",
