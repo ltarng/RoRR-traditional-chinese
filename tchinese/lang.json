@@ -1,4 +1,91 @@
 {
+	"interactable.oBarrel1.name" : "桶子",
+	"interactable.oBarrel2.name" : "大桶子",
+	"interactable.oBarrel3.name" : "門禁卡桶",
+	"interactable.oBlastdoorPanel.name" : "防爆門控制台",
+	"interactable.oChest4.name" : "自適應寶箱",
+	"interactable.oDeadman.name" : "膨脹的倖存者",
+	"interactable.oChestToxin.name" : "寶箱？",
+	"interactable.oGunchest.name" : "槍械寶箱",
+	"interactable.oDoor.name" : "門禁卡門",
+	"interactable.oFeralCage.name" : "貨運容器",
+	"interactable.oUsechest.name" : "奈米寶箱",
+	"interactable.oGauss.name" : "高斯加農炮",
+	"interactable.oMedbay.name" : "手術床",
+	"interactable.oMedcab.name" : "藥品櫃",
+	"interactable.oShop1.name" : "複合商店",
+	"interactable.oVendor.name" : "臨時道具小舖",
+	"interactable.oShrine1.name" : "機率聖壇",
+	"interactable.oShrine2.name" : "生命聖壇",
+	"interactable.oShrine3.name" : "小惡魔聖壇",
+	"interactable.oShrine3S.name" : "巨型小惡魔聖壇",
+	"interactable.oShrine4.name" : "遠古機率聖壇",
+	"interactable.oShrine5.name" : "天命聖壇",
+	"interactable.oTeleporter.name" : "傳送器",
+	"interactable.oTeleporterEpic.name" : "神聖傳送器",
+	"interactable.pInteractableCrate.name" : "控制型貨箱",
+	"interactable.oDrone0Item.name" : "破損？？？",
+	"interactable.oCommand.name" : "觸點之光號導航系統",
+
+	"ping.interactableOrItem" : "%s 發現了：%s。",
+	"ping.interactableWithCost" : "%s 發現了：%s（%s）。",
+	"ping.interactableWithContentAndCost" : "%s 發現了：%s（%s）（%s）。",
+	"ping.interactableConsumed" : "%s 發現了：<c_used>%s（已使用）</c>。",
+	"ping.enemy" : "%s 想要攻擊：%s。",
+	"ping.location" : "%s 想要到這裡。",
+
+	"control.emote" : "表情圖示",
+	"control.ping" : "傳送訊息",
+	"control.emote_1" : "表情圖示 - 是",
+	"control.emote_2" : "表情圖示 - 否",
+	"control.emote_3" : "表情圖示 - 道具？",
+	"control.emote_4" : "表情圖示 - 傳送門？",
+	"control.emote_5" : "表情圖示 - 語境表情圖示",
+
+	"ui.options.zoomScaleNote" : "This setting may be modified from the options menu at any time, so feel free to experiment and find what best suits your playstyle.",
+	
+	"ui.options.pingMessage" : "線上合作遊戲傳送訊息",
+	"ui.options.pingMessage.desc" : "Whether or not a chat message will appear when a player pings an object or location in online co-op.",
+
+	"ui.options.chatScale" : "聊天視窗比例",
+	"ui.options.chatScale.desc" : "The scale of the chat window when playing online",
+	
+	"ui.options.steamDeckRecommended" : "Enabling this option is recommended for Steam Deck play.",
+	"ui.online.optionAppliedAtStartNote" : "This setting will only be applied after pressing '%s'.",
+
+	
+	"ui.online.set_lobby_max_players" : "Player Limit",
+	"ui.online.set_lobby_max_players.desc" : "The maximum number of players who will be able to play in this lobby at once.",
+	"ui.online.set_lobby_max_players.warn" : "This game was designed with a maximum of 4 players in mind. Increasing this number is likely to impact game balance and performance. Some parts of the user interface will not correctly adapt to extreme player counts.",
+
+	"ui.online.set_lobby_ban_robomando" : "Ban Hidden Survivor '%s'",
+	"ui.online.set_lobby_ban_robomando.desc" : "Enable this option to ban players from selecting the hidden 16th Survivor known as '%s'.",
+	"ui.online.set_lobby_ban_robomando.descLocked" : "Enable this option to ban players from selecting the hidden 16th Survivor.",
+	
+	"ui.select.survivorNotAllowed" : "This Survivor has been disabled by the lobby host.",
+
+	"achievement.unlock_robomando_skin_p.name" : "Worth the Wait",
+
+	"interactable.oDroneJellyItem.name" : "Dormant Jelly",
+	"actor.oDroneJelly.name" : "Young Jelly",
+	"actor.oDroneJellyS.name" : "Evolved Young Jelly",
+
+	"item.evolvedNematocyst.name" : "Evolved Nematocyst Nozzle",
+	"item.evolvedNematocyst.pickup" : "Cnidarian delicacy.",
+	"item.evolvedNematocyst.description" : "Shoot out <y>9 nematocysts</c> that deal <y>400% damage</c>.",
+	"item.evolvedNematocyst.destination" : "8800,\nGentle Valley,\nUnknown",
+	"item.evolvedNematocyst.date" : "12/31/2056",
+	"item.evolvedNematocyst.story" : "Across all the hills and valleys of the planet I've yet to see a single jellyfish of this hue. More passive than the others, I found this golden juvenile clinging onto some excess lump of flesh. It seems familiar, but the heat emanating from the mound is unlike anything I've come across. This is dangerous.",
+
+	"item.minersPickaxe.name" : "Lost Pickaxe",
+	"item.minersPickaxe.pickup" : "Scorching from beyond.",
+	"item.minersPickaxe.description" : "<y>15% <c_stack>(+10% per stack)</c> chance on hit to summon a pickaxe that deals <y>220% TOTAL damage</c> and <y>pierces enemies</c>.",
+	"item.minersPickaxe.destination" : "Chicago Grand Terminal,\nUnited States,\nEarth",
+	"item.minersPickaxe.date" : "7/22/2057",
+	"item.minersPickaxe.story" : "Unfortunately, I know whose this is. His kids would be lucky to ever see him again.\n\nI'd be lucky to ever see him again.",
+
+
+	
 	"META_THOUSANDS_SEPARATOR": ",",
 	"META_KMH_CONVERSION": "1.0",
 	"META_DATE_FMT": "{year}/{month}/{day}",
@@ -553,7 +640,8 @@
 			"fullscreen.desc": "是否以全螢幕而非視窗模式執行遊戲。",
 			"resolution": "視窗解析度",
 			"resolution.desc": "在非全螢幕模式遊戲時的視窗尺寸。",
-			"vsync": "垂直同步",
+			"resolution.lockTooltip" : "當啟用全螢幕模式時，不會使用視窗解析度的設定",
+            "vsync": "垂直同步",
 			"vsync.desc": "透過同步遊戲幀率與顯示器更新率來消除畫面撕裂。僅建議在出現畫面撕裂時啟用此設定。",
 			"scale": "縮放比例",
 			"scale.desc": "決定遊戲內鏡頭的縮放比例。",
@@ -910,6 +998,7 @@
 				"regen": "生命再生值：<g>%s<c_stack>（每級+%s）</c>點生命值/秒",
 				"damage": "傷害值：<y>%s<c_stack>（每級+%s）",
 				"armor": "裝甲值：<b>%s<c_stack>（每級+%s）",
+
 				"longestRun": "單局最長時間：<y>%s",
 				"picks": "撿拾次數：<y>%s",
 				"pickPercent": "撿拾百分比：<y>%s",
@@ -1838,7 +1927,7 @@
 			"description": "在附近召喚一個<b>寶箱</c>。該寶箱需要<y>雙倍</c>費用。",
 			"destination": "金星\n好色小子\n箱子1",
 			"date": "2056/9/12",
-			"story": "這枚胸針是我們家族中代代相傳的寶物，象徵著觸點之光的新任艦長。我其實會親自把它送回家裡，所以將它標示為高優先。\n\n……嗯？背面似乎有一個非常小的按鈕。但是按下去似乎沒什麼反應……"
+			"story": "這枚胸針是我們家族中代代相傳的寶物，象徵著觸點之光號的新任艦長。我其實會親自把它送回家裡，所以將它標示為高優先。\n\n……嗯？背面似乎有一個非常小的按鈕。但是按下去似乎沒什麼反應……"
 		},
 		"theBackup": {
 			"name": "後備人員",
@@ -2466,7 +2555,8 @@
 		"trokk.story": "在碩大樹木的蔭庇下歇息時，一陣突如其來的像是地震一般的騷動把我給驚醒了。腳下的大地突然抖動起伏，緊接著我便被猛地甩到了半空。在我身下，一頭托克已經張開了血盆大口，要不是我在飛出去的瞬間就掏出了手槍，我恐怕就會被它碾成一塊薄片。雖然表面都是堅硬無比的石頭，但是這種奇形怪狀的「木樁」內部卻是像鱷魚的嘴一樣長著柔軟的身體組織。從體型來看，它們的體內應該沒有容納胃部的空間，無法想像它的獵物們都會遭遇什麼樣的下場。",
 		"tuber.name": "塊莖怪",
 		"tuber.story": "「塊莖怪」讓我想起了以前在飛船上培養的小植物。它們會把自己深埋於地下，感受到毫不知情的獵物們的震動後再發動尖牙攻擊。可以把它們想像成是巨大的螞獅，有時候對付這些傢伙最好的方法就是投擲用光的彈匣來引蛇出洞。我有試過用石頭或者是其他的誘餌，但似乎誘餌的品質在它們眼裡也分三六九等。這顆星球上的野獸們的行為讓我感到不安，儘管從遠處看，這些動物的表現都再自然不過，但我仍然感覺有無數雙眼睛在盯著我。"
-	},
+
+    },
 
 	"stage": {
 		"desolateForest.name": "荒涼森林",
@@ -2666,6 +2756,7 @@
 			"name": "格鬥軍刀",
 			"description": "揮砍敵人，造成<y>150%傷害</c>並使其陷入持續4秒的<r>受傷</c>狀態。\n<r>受傷</c>狀態的敵人承受的<y>所有傷害</c>將額外提升<b>50%</c>。"
 		},
+
 		"commandoC2": {
 			"name": "戰術滑行",
 			"description": "<y>在地面滑行</c>一段較短的距離。\n你能在滑行過程中<b>朝兩個方向中的一邊開火</c>。"
@@ -2714,10 +2805,12 @@
 			"name": "驅散",
 			"description": "連續發射三次霰彈槍，造成<y>3x300%傷害</c>。<r>對大型敵人更為有效。</c><b>在空中發動時將向下方射擊。</c>"
 		},
+
 		"enforcerV2Boosted": {
 			"name": "清場",
 			"description": "連續發射三次霰彈槍，對更大範圍內造成<y>3x350%傷害</c>，擊飛並<y>眩暈</c>大範圍內的敵人。<r>對大型敵人更為有效。</c><b>在空中發動時將向下方射擊。</c>"
 		},
+
 		"banditZ": {
 			"name": "爆破",
 			"description": "發射一枚強力彈丸，造成<y>150%傷害</c>。"
@@ -2786,6 +2879,7 @@
 			"name": "曲速飛鏢",
 			"description": "投擲一枚有重量的飛鏢，並<y>將你傳送至飛鏢落地的位置。</c>落地時爆炸並造成<y>200%傷害</c>。"
 		},
+
 		"handZ": {
 			"name": "擊傷",
 			"description": "對所有戰鬥人員造成<y>180%傷害。</c>"
@@ -2978,6 +3072,7 @@
 			"name": "致盲突擊",
 			"description": "<y>向前衝鋒，</c>眩暈敵人並造成<y>120%傷害</c>。命中敵人後可再次<b>發起衝鋒<y>，最多3次。"
 		},
+
 		"mercenaryV": {
 			"name": "近距離處決",
 			"description": "瞄準距離最近的敵人，對其造成<y>6x110%傷害</c>。\n<b>技能發動期間不會承受攻擊。</c>"
@@ -3074,6 +3169,7 @@
 			"name": "切割",
 			"description": "伸展手臂切割顧客，造成<y>120%傷害。</c>"
 		},
+
 		"chefC2": {
 			"name": "油罐",
 			"description": "投擲一罐極其易碎的油瓶，潑灑油並<b>使顧客減速。</c><y>在油中移動將變為滑行。</c>"
@@ -3086,6 +3182,7 @@
 			"name": "屠夫",
 			"description": "凶暴地肢解顧客，造成<y>625%傷害。</c>"
 		},
+
 		"chefC2Empowered": {
 			"name": "醃漬",
 			"description": "投擲一大罐極其易碎的油瓶，潑灑油並<b>使顧客減速。</c><y>在油中移動將變為滑行。</c>\n提醒：休息期間請清理髒亂的場面。"
@@ -3130,6 +3227,7 @@
 			"name": "空中彈幕",
 			"description": "<b>標記</c>前方一名敵人，發動空襲，造成<y>20x120%持續傷害</c>。"
 		},
+
 		"artiZ": {
 			"name": "火焰環刃",
 			"description": "投擲環刃，造成<y>45%傷害</c>。環刃在返回前最多造成5次打擊，並堆疊<y>10%持續傷害</c>的<y>點燃</c>效果。"
@@ -3238,7 +3336,8 @@
 			"name": "大廚",
 			"nameUpper": "大廚",
 			"story": "<ul>保固期限：\n2063/4/10\n\n<ul>大廚（含使用手冊）：</c>\n感謝您購買大廚A型機器人廚房助手！過去十年來，自動化烹飪技術已經有了突飛猛進的發展，我們的A型機器人系列使用了最新的烹飪AI資料庫進行訓練。大廚型號能夠相當精確的運作，只需一天時間進行調教就能滿足您與親朋好友的所有需求！它們能以提供的任何食材和炊具有效率地準備餐點，甚至能在緊急情況下臨機應變！無論是居家、商用，甚至是旅行途中，你都可以利用內建的8種預設方案迅速滿足您的飲食喜好！請參閱安全指南獲取額外資訊。\n\n<b>[安全指南]</c>\n<ul>[1]</c>在操作前請務必詳細閱讀本指南。\n<ul>[2]</c>雖然本產品具有防水功能，但請勿將其浸泡在水中或是其他液體中以避免觸電的危險。\n<ul>[3]</c>請勿嘗試手動補充儲油庫。過量填充可能引發火災。\n<ul>[4]</c>請確認所有排放口保持暢通，堵塞時可能引發燃燒事故。\n<ul>[5]</c>請勿將未經授權的生物*材料放入烹飪艙。\n<ul>[5a]</c>請參閱火星人類法規了解未授權材料的完整清單。"
-		},
+
+        },
 		"engineer": {
 			"endQuote": "……於是他離開了，血肉之軀變成了鋼筋鐵骨。",
 			"description": "<y>工程師</c>依賴<y>適當佈置</c>一些<y>地雷與炮塔</c>。利用<y>「手榴彈三連星」</c>與<y>「熱能魚叉」</c><y>從安全的距離攻擊敵人。</c>永遠記得在啟動傳送器之前佈置好地雷與炮塔！",
