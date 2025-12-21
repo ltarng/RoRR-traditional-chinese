@@ -27,12 +27,12 @@
 	"interactable.oDrone0Item.name" : "破損？？？",
 	"interactable.oCommand.name" : "觸點之光號導航系統",
 
-	"ping.interactableOrItem" : "%s 發現了：%s。",
-	"ping.interactableWithCost" : "%s 發現了：%s（%s）。",
-	"ping.interactableWithContentAndCost" : "%s 發現了：%s（%s）（%s）。",
-	"ping.interactableConsumed" : "%s 發現了：<c_used>%s（已使用）</c>。",
-	"ping.enemy" : "%s 想要攻擊：%s。",
-	"ping.location" : "%s 想要到這裡。",
+	"ping.interactableOrItem" : "%s發現了：%s。",
+	"ping.interactableWithCost" : "%s發現了：%s（%s）。",
+	"ping.interactableWithContentAndCost" : "%s發現了：%s（%s）（%s）。",
+	"ping.interactableConsumed" : "%s發現了：<c_used>%s（已使用）</c>。",
+	"ping.enemy" : "%s想要攻擊：%s。",
+	"ping.location" : "%s想要到這裡。",
 
 	"control.emote" : "表情圖示",
 	"control.ping" : "傳送訊息",
@@ -42,33 +42,33 @@
 	"control.emote_4" : "表情圖示 - 傳送門？",
 	"control.emote_5" : "表情圖示 - 語境表情圖示",
 
-	"ui.options.zoomScaleNote" : "This setting may be modified from the options menu at any time, so feel free to experiment and find what best suits your playstyle.",
+	"ui.options.zoomScaleNote" : "此設定可隨時在選項選單中更改，請放心地盡情探索出最適合你遊玩風格的設定。",
 	
 	"ui.options.pingMessage" : "線上合作遊戲傳送訊息",
-	"ui.options.pingMessage.desc" : "Whether or not a chat message will appear when a player pings an object or location in online co-op.",
+	"ui.options.pingMessage.desc" : "在線上合作模式中，是否要顯示玩家標記物件或位置的聊天訊息。",
 
 	"ui.options.chatScale" : "聊天視窗比例",
-	"ui.options.chatScale.desc" : "The scale of the chat window when playing online",
+	"ui.options.chatScale.desc" : "在遊玩線上模式時出現的聊天視窗比例",
 	
-	"ui.options.steamDeckRecommended" : "Enabling this option is recommended for Steam Deck play.",
-	"ui.online.optionAppliedAtStartNote" : "This setting will only be applied after pressing '%s'.",
+	"ui.options.steamDeckRecommended" : "建議在 Steam Deck 上遊玩時啟用此選項。",
+	"ui.online.optionAppliedAtStartNote" : "此設定只有在按下「%s」之後才會套用。",
 
 	
-	"ui.online.set_lobby_max_players" : "Player Limit",
-	"ui.online.set_lobby_max_players.desc" : "The maximum number of players who will be able to play in this lobby at once.",
-	"ui.online.set_lobby_max_players.warn" : "This game was designed with a maximum of 4 players in mind. Increasing this number is likely to impact game balance and performance. Some parts of the user interface will not correctly adapt to extreme player counts.",
+	"ui.online.set_lobby_max_players" : "玩家人數上限",
+	"ui.online.set_lobby_max_players.desc" : "此大廳中同時可遊玩的最大玩家人數。",
+	"ui.online.set_lobby_max_players.warn" : "本遊戲在初始設計上以至多4位玩家同時遊玩為目標。提高遊玩人數可能會影響遊戲平衡與效能。並且在極端的玩家人數下，部分使用者介面將無法正確調整顯示。",
 
-	"ui.online.set_lobby_ban_robomando" : "Ban Hidden Survivor '%s'",
-	"ui.online.set_lobby_ban_robomando.desc" : "Enable this option to ban players from selecting the hidden 16th Survivor known as '%s'.",
-	"ui.online.set_lobby_ban_robomando.descLocked" : "Enable this option to ban players from selecting the hidden 16th Survivor.",
+	"ui.online.set_lobby_ban_robomando" : "禁用隱藏倖存者「%s」",
+	"ui.online.set_lobby_ban_robomando.desc" : "啟用此選項可禁止玩家選擇隱藏的第16位倖存者「%s」。",
+	"ui.online.set_lobby_ban_robomando.descLocked" : "啟用此選項可禁止玩家選擇隱藏的第16位倖存者。",
 	
-	"ui.select.survivorNotAllowed" : "This Survivor has been disabled by the lobby host.",
+	"ui.select.survivorNotAllowed" : "該倖存者已被房主停用。",
 
-	"achievement.unlock_robomando_skin_p.name" : "Worth the Wait",
+	"achievement.unlock_robomando_skin_p.name" : "值得的等待",
 
-	"interactable.oDroneJellyItem.name" : "Dormant Jelly",
-	"actor.oDroneJelly.name" : "Young Jelly",
-	"actor.oDroneJellyS.name" : "Evolved Young Jelly",
+	"interactable.oDroneJellyItem.name" : "休眠果凍",
+	"actor.oDroneJelly.name" : "年輕果凍",
+	"actor.oDroneJellyS.name" : "進化完的年輕果凍",
 
 	"item.evolvedNematocyst.name" : "Evolved Nematocyst Nozzle",
 	"item.evolvedNematocyst.pickup" : "Cnidarian delicacy.",
@@ -640,7 +640,7 @@
 			"fullscreen.desc": "是否以全螢幕而非視窗模式執行遊戲。",
 			"resolution": "視窗解析度",
 			"resolution.desc": "在非全螢幕模式遊戲時的視窗尺寸。",
-			"resolution.lockTooltip" : "當啟用全螢幕模式時，不會使用視窗解析度的設定",
+			"resolution.lockTooltip" : "當啟用全螢幕模式時，無法適用視窗解析度的設定",
             "vsync": "垂直同步",
 			"vsync.desc": "透過同步遊戲幀率與顯示器更新率來消除畫面撕裂。僅建議在出現畫面撕裂時啟用此設定。",
 			"scale": "縮放比例",
