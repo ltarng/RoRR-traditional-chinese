@@ -68,21 +68,21 @@
 
 	"interactable.oDroneJellyItem.name" : "休眠果凍",
 	"actor.oDroneJelly.name" : "年輕果凍",
-	"actor.oDroneJellyS.name" : "進化完的年輕果凍",
+	"actor.oDroneJellyS.name" : "進化型年輕果凍",
 
-	"item.evolvedNematocyst.name" : "Evolved Nematocyst Nozzle",
-	"item.evolvedNematocyst.pickup" : "Cnidarian delicacy.",
-	"item.evolvedNematocyst.description" : "Shoot out <y>9 nematocysts</c> that deal <y>400% damage</c>.",
-	"item.evolvedNematocyst.destination" : "8800,\nGentle Valley,\nUnknown",
-	"item.evolvedNematocyst.date" : "12/31/2056",
-	"item.evolvedNematocyst.story" : "Across all the hills and valleys of the planet I've yet to see a single jellyfish of this hue. More passive than the others, I found this golden juvenile clinging onto some excess lump of flesh. It seems familiar, but the heat emanating from the mound is unlike anything I've come across. This is dangerous.",
+	"item.evolvedNematocyst.name" : "進化型刺細胞噴嘴",
+	"item.evolvedNematocyst.pickup" : "刺絲胞動物門美食。",
+	"item.evolvedNematocyst.description" : "發射<y> 9 枚刺囊</c>，每枚造成<y> 400% 傷害</c>。",
+	"item.evolvedNematocyst.destination" : "未知\n溫柔谷\n8800",
+	"item.evolvedNematocyst.date" : "2056/12/31",
+	"item.evolvedNematocyst.story" : "走遍這顆星球的山丘與山谷，我從未見過這種色澤的水母。這隻金色的幼體比其他同類更加溫馴，我發現牠正依附在某種增生的肉瘤上。這個景象看起來莫名熟悉，但那堆肉團散發出的熱度卻是我從未遇過的。這很危險。",
 
-	"item.minersPickaxe.name" : "Lost Pickaxe",
-	"item.minersPickaxe.pickup" : "Scorching from beyond.",
-	"item.minersPickaxe.description" : "<y>15% <c_stack>(+10% per stack)</c> chance on hit to summon a pickaxe that deals <y>220% TOTAL damage</c> and <y>pierces enemies</c>.",
-	"item.minersPickaxe.destination" : "Chicago Grand Terminal,\nUnited States,\nEarth",
-	"item.minersPickaxe.date" : "7/22/2057",
-	"item.minersPickaxe.story" : "Unfortunately, I know whose this is. His kids would be lucky to ever see him again.\n\nI'd be lucky to ever see him again.",
+	"item.minersPickaxe.name" : "遺失的十字鎬",
+	"item.minersPickaxe.pickup" : "來自彼端的灼熱。",
+	"item.minersPickaxe.description" : "攻擊時有<y> 15% <c_stack>（每層 +10%）</c>的機會召喚出一把十字鎬，造成<y> 220% 的總傷害</c>和<y>穿透敵人</c>的效果。",
+	"item.minersPickaxe.destination" : "地球\n合眾國\n芝加哥大中央站",
+	"item.minersPickaxe.date" : "2057/7/22",
+	"item.minersPickaxe.story" : "不幸的是，我知道這是屬於誰的東西。他的孩子恐怕很難再見到他了。\n\n而我恐怕也沒機會再見到他了。",
 
 
 	
@@ -578,7 +578,7 @@
 		},
 
 		"tutorialPrompt": "要遊玩教學嗎？<ud>\n<fntNormal>\n<fntLarge>預計完成時間：\n2 分鐘。",
-		"tutorialOptionsNotice": "教學可以從設定選項中的控制區塊進行。",
+		"tutorialOptionsNotice": "您可以從設定選單的「控制」分頁遊玩教學模式。",
 
 		"gameVersion": "版本：%s",
 		"numLoadedMods": "%s已載入模組",
@@ -627,7 +627,7 @@
 			"trialsPrevBest": "歷史最佳紀錄",
 
 			"exitWarning": "<y>結束目前遊戲？</c>\n確定要結束這輪遊戲？",
-			"exitWarningOnline": "確定要斷線並返回到標題畫面？"
+			"exitWarningOnline": "確定要中斷連線並返回到標題畫面？"
 		},
 
 		"options": {
@@ -708,8 +708,8 @@
 
 			"gamepad": "已選擇的控制器",
 			"gamepad.auto": "自動偵測（預設）",
-			"gamepad.disabled": "停用",
-			"gamepad.disconnected": "（斷線）",
+			"gamepad.disabled": "已停用",
+			"gamepad.disconnected": "（未連線）",
 			"gamepad.index": "%s（%s）",
 
 			"resetDefault": "將控制選項恢復至預設值",
@@ -795,7 +795,7 @@
 			"connectionFailed.gameStarted": "遊戲進行中",
 			"connectionFailed.lobbyClosed": "嘗試連線時大廳已關閉。",
 			"connectionFailed.timedOut": "連線超時。",
-			"disconnected": "已與主機斷線。",
+			"disconnected": "已與主機中斷連線。",
 			"timeout": "連線超時。",
 			"lobbyClosed": "主機已關閉伺服器。"
 		},
@@ -1996,7 +1996,7 @@
 		"nematocystNozzle": {
 			"name": "刺細胞噴嘴",
 			"pickup": "最好冷處理。",
-			"description": "發射<y>6枚刺囊</c>，每枚造成<y>400%傷害</c>。",
+			"description": "發射<y> 6 枚刺囊</c>，每枚造成<y> 400% 傷害</c>。",
 			"destination": "未知\n溫柔谷\n8800",
 			"date": "2056/8/18",
 			"story": "為了更好地理解漫游者的生理構造，我選擇了解刨屍體，之後就在裡面發現了這種管子，或者說「噴嘴」。漫游者肯定是利用了某種氣體與液體組成的混合物來發射與引爆其中的爆炸物質。這東西肯定能派上用場。"
