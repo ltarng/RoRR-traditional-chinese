@@ -1,91 +1,4 @@
 {
-	"interactable.oBarrel1.name" : "桶子",
-	"interactable.oBarrel2.name" : "大桶子",
-	"interactable.oBarrel3.name" : "門禁卡桶",
-	"interactable.oBlastdoorPanel.name" : "防爆門控制台",
-	"interactable.oChest4.name" : "自適應寶箱",
-	"interactable.oDeadman.name" : "膨脹的倖存者",
-	"interactable.oChestToxin.name" : "寶箱？",
-	"interactable.oGunchest.name" : "槍械寶箱",
-	"interactable.oDoor.name" : "門禁卡門",
-	"interactable.oFeralCage.name" : "貨運容器",
-	"interactable.oUsechest.name" : "奈米寶箱",
-	"interactable.oGauss.name" : "高斯加農炮",
-	"interactable.oMedbay.name" : "手術床",
-	"interactable.oMedcab.name" : "藥品櫃",
-	"interactable.oShop1.name" : "複合商店",
-	"interactable.oVendor.name" : "臨時道具小舖",
-	"interactable.oShrine1.name" : "機率聖壇",
-	"interactable.oShrine2.name" : "生命聖壇",
-	"interactable.oShrine3.name" : "小惡魔聖壇",
-	"interactable.oShrine3S.name" : "巨型小惡魔聖壇",
-	"interactable.oShrine4.name" : "遠古機率聖壇",
-	"interactable.oShrine5.name" : "天命聖壇",
-	"interactable.oTeleporter.name" : "傳送器",
-	"interactable.oTeleporterEpic.name" : "神聖傳送器",
-	"interactable.pInteractableCrate.name" : "控制型貨箱",
-	"interactable.oDrone0Item.name" : "破損？？？",
-	"interactable.oCommand.name" : "觸點之光號導航系統",
-
-	"ping.interactableOrItem" : "%s 發現了：%s。",
-	"ping.interactableWithCost" : "%s 發現了：%s（%s）。",
-	"ping.interactableWithContentAndCost" : "%s 發現了：%s（%s）（%s）。",
-	"ping.interactableConsumed" : "%s 發現了：<c_used>%s（已使用）</c>。",
-	"ping.enemy" : "%s 想要攻擊：%s。",
-	"ping.location" : "%s 想要到這裡。",
-
-	"control.emote" : "表情圖示",
-	"control.ping" : "傳送訊息",
-	"control.emote_1" : "表情圖示 - 是",
-	"control.emote_2" : "表情圖示 - 否",
-	"control.emote_3" : "表情圖示 - 道具？",
-	"control.emote_4" : "表情圖示 - 傳送門？",
-	"control.emote_5" : "表情圖示 - 語境表情圖示",
-
-	"ui.options.zoomScaleNote" : "此設定可隨時在選項選單中更改，請盡情嘗試各種設定，打造出最適合您的遊玩方式。",
-	
-	"ui.options.pingMessage" : "線上合作遊戲傳送訊息",
-	"ui.options.pingMessage.desc" : "決定是否在線上合作模式中顯示玩家標記物件或位置時的訊息。",
-
-	"ui.options.chatScale" : "聊天視窗比例",
-	"ui.options.chatScale.desc" : "在遊玩線上模式時出現的聊天視窗比例。",
-	
-	"ui.options.steamDeckRecommended" : "建議在 Steam Deck 遊玩時啟用此選項。",
-	"ui.online.optionAppliedAtStartNote" : "此設定只有在按下「%s」之後才會套用。",
-
-	
-	"ui.online.set_lobby_max_players" : "玩家人數上限",
-	"ui.online.set_lobby_max_players.desc" : "此大廳中同時可遊玩的最大玩家人數。",
-	"ui.online.set_lobby_max_players.warn" : "本遊戲原始設計是以 4 人體驗為主。雖然可以增加遊玩人數，但可能會對遊戲平衡與效能造成影響。且在人數過多時，部分使用者介面可能無法正確顯示。",
-
-	"ui.online.set_lobby_ban_robomando" : "禁用隱藏倖存者「%s」",
-	"ui.online.set_lobby_ban_robomando.desc" : "啟用此選項可禁止玩家選擇隱藏的第 16 位倖存者「%s」。",
-	"ui.online.set_lobby_ban_robomando.descLocked" : "啟用此選項可禁止玩家選擇隱藏的第 16 位倖存者。",
-	
-	"ui.select.survivorNotAllowed" : "該倖存者已被房主停用。",
-
-	"achievement.unlock_robomando_skin_p.name" : "值得的等待",
-
-	"interactable.oDroneJellyItem.name" : "休眠果凍",
-	"actor.oDroneJelly.name" : "年輕果凍",
-	"actor.oDroneJellyS.name" : "進化型年輕果凍",
-
-	"item.evolvedNematocyst.name" : "進化型刺細胞噴嘴",
-	"item.evolvedNematocyst.pickup" : "刺絲胞動物門美食。",
-	"item.evolvedNematocyst.description" : "發射<y> 9 枚刺囊</c>，每枚造成<y> 400% 傷害</c>。",
-	"item.evolvedNematocyst.destination" : "未知\n溫柔谷\n8800",
-	"item.evolvedNematocyst.date" : "2056/12/31",
-	"item.evolvedNematocyst.story" : "走遍這顆星球的山丘與山谷，我從未見過這種色澤的水母。這隻金色的幼體比其他同類更加溫馴，我發現牠正依附在某種增生的肉瘤上。這個景象看起來莫名熟悉，但那堆肉團散發出的熱度卻是我從未遇過的。這很危險。",
-
-	"item.minersPickaxe.name" : "遺失的十字鎬",
-	"item.minersPickaxe.pickup" : "來自彼端的灼熱。",
-	"item.minersPickaxe.description" : "攻擊時有<y> 15% <c_stack>（每層 +10%）</c>的機會召喚出一把十字鎬，造成<y> 220% 的總傷害</c>和<y>穿透敵人</c>的效果。",
-	"item.minersPickaxe.destination" : "地球\n合眾國\n芝加哥大中央站",
-	"item.minersPickaxe.date" : "2057/7/22",
-	"item.minersPickaxe.story" : "不幸的是，我知道這是屬於誰的東西。他的孩子恐怕很難再見到他了。\n\n而我恐怕也沒機會再見到他了。",
-
-
-	
 	"META_THOUSANDS_SEPARATOR": ",",
 	"META_KMH_CONVERSION": "1.0",
 	"META_DATE_FMT": "{year}/{month}/{day}",
@@ -213,6 +126,15 @@
 		"equipmentHoldSwap": "長按 %s 切換裝備",
 		"difficultyLabel": "難度："
 	},
+	
+	"ping": {
+		"interactableOrItem" : "%s 發現了：%s。",
+		"interactableWithCost" : "%s 發現了：%s（%s）。",
+		"interactableWithContentAndCost" : "%s 發現了：%s（%s）（%s）。",
+		"interactableConsumed" : "%s 發現了：<c_used>%s（已使用）</c>。",
+		"enemy" : "%s 想要攻擊：%s。",
+		"location" : "%s 想要到這裡。"
+	},
 
 	"chat": {
 		"message": "%s: %s",
@@ -270,6 +192,14 @@
 		"aim_right" : "瞄準右方",
 		"aim_up" : "瞄準上方 <y>(?)</c>",
 		"aim_up.desc" : "<y>(?):此設定只適用於特定倖存者的能力。</c> 支援此操作的技能將在能力說明中詳細註明。",
+
+		"emote" : "表情圖示",
+		"ping" : "傳送訊息",
+		"emote_1" : "表情圖示 - 是",
+		"emote_2" : "表情圖示 - 否",
+		"emote_3" : "表情圖示 - 道具？",
+		"emote_4" : "表情圖示 - 傳送門？",
+		"emote_5" : "表情圖示 - 語境表情圖示",
 
 		"profile.keyboard_and_mouse": "鍵盤與滑鼠（預設）",
 		"profile.gamepad": "遊戲控制器（預設）",
@@ -775,7 +705,17 @@
 			"rebindKeyCancel": "<y>按 %s 取消。",
 
 			"upd104Header" : "啟用滑鼠水平瞄準",
-			"upd104Message" : "滑鼠水平瞄準現在已啟用。\n\n您已將控制綁訂到滑鼠按鈕。是否啟用滑鼠水平瞄準？\n\n此選項稍後可以從控制選單中啟用或停用。\n\n<spr UITutorialAnimMouseaim 1 0.2>"
+			"upd104Message" : "滑鼠水平瞄準現在已啟用。\n\n您已將控制綁訂到滑鼠按鈕。是否啟用滑鼠水平瞄準？\n\n此選項稍後可以從控制選單中啟用或停用。\n\n<spr UITutorialAnimMouseaim 1 0.2>",
+		
+			"zoomScaleNote" : "此設定可隨時在選項選單中更改，請盡情嘗試各種設定，打造出最適合您的遊玩方式。",
+	
+			"pingMessage" : "線上合作遊戲傳送訊息",
+			"pingMessage.desc" : "決定是否在線上合作模式中顯示玩家標記物件或位置時的訊息。",
+
+			"chatScale" : "聊天視窗比例",
+			"chatScale.desc" : "在遊玩線上模式時出現的聊天視窗比例。",
+
+			"steamDeckRecommended" : "建議在 Steam Deck 遊玩時啟用此選項。"
 		},
 		"error": {
 			"error": "錯誤",
@@ -837,7 +777,8 @@
 			"joinPrompt": "按下任意鍵",
 			"goBackWarning": "返回主選單？",
 			"noteHostLocked": "[!]只有房主能調整此部分的內容。",
-			"noteQuickplayLocked": "[!]快速遊玩不支援此部分的內容。"
+			"noteQuickplayLocked": "[!]快速遊玩不支援此部分的內容。",
+			"survivorNotAllowed" : "該倖存者已被房主停用。"
 		},
 
 		"online": {
@@ -857,6 +798,12 @@
 			"set_lobby_per_player_intensity": "單獨玩家強度設定",
 			"set_lobby_per_player_intensity.desc": "決定玩家是否能夠在角色選擇介面中選擇自己的「承受傷害」或「造成傷害」設定。",
 			"set_lobby_per_player_intensity.desc2": "玩家可以分配各自的傷害強度。",
+			"set_lobby_max_players" : "玩家人數上限",
+			"set_lobby_max_players.desc" : "此大廳中同時可遊玩的最大玩家人數。",
+			"set_lobby_max_players.warn" : "本遊戲原始設計是以 4 人體驗為主。雖然可以增加遊玩人數，但可能會對遊戲平衡與效能造成影響。且在人數過多時，部分使用者介面可能無法正確顯示。",
+			"set_lobby_ban_robomando" : "禁用隱藏倖存者「%s」",
+			"set_lobby_ban_robomando.desc" : "啟用此選項可禁止玩家選擇隱藏的第 16 位倖存者「%s」。",
+			"set_lobby_ban_robomando.descLocked" : "啟用此選項可禁止玩家選擇隱藏的第 16 位倖存者。",
 
 			"con_require_password": "需要密碼",
 			"con_require_password.desc": "啟用該選項後，所有玩家都需要輸入密碼才能夠加入。\n繼續並設定密碼。",
@@ -946,7 +893,9 @@
 			"noLobbies": "未找到大廳。",
 
 			"openInfo": "查看資訊",
-			"userInfoTitle": "多人遊戲檔案"
+			"userInfoTitle": "多人遊戲檔案",
+
+			"optionAppliedAtStartNote" : "此設定只有在按下「%s」之後才會套用。"
 		},
 
 		"logMenu": {
@@ -1714,7 +1663,7 @@
 			"description": "行走時在身後創造一道熊熊燃燒的<r>火焰之徑<y>，造成<y>35%<c_stack>（每層+20%）<y>傷害</c>。",
 			"destination": "太陽\n太空站\nU·洞",
 			"date": "2056/8/8",
-			"story": "考慮到那邊的工作環境中的極端溫度，我們決定為你們提供最頂尖的防火裝備。所以請欣賞真正的「以火攻火」。\n\n這雙靴子能夠揮灑低燃點液體，並藉此消耗大量氧氣。這種做法將能夠迅速消耗掉周圍高溫火焰需要的氣體，但同時也將使你在身後留下一條火焰之徑。千萬要注意正確使用，否則你很有可能會一腳燒穿房子。\n可以使用汽油，煤油或者是一切能夠用來燃燒的物質。"
+			"story": "考量到你工作環境中的極端高溫，我們認為你可能會想要最頂尖的阻燃裝備。那麼，這就交給你了。它的運作原理是真正的「以火攻火」。\n\n這雙靴子能夠揮灑低燃點液體，並藉此消耗大量氧氣。這種做法能使附近的高溫火焰因缺氧而熄滅，但同時你身後也將留下一條火焰之徑。請切記要在適當的環境下使用，否則你可能會把房子燒掉。\n可使用汽油、煤油或是任何燃燒效率尚可的燃料進行補充。"
 		},
 		"hyperThreader": {
 			"name": "究極光線槍",
@@ -1722,7 +1671,7 @@
 			"description": "命中敵人將<y>發射一道雷射</c>，造成<y>40%傷害</c>並<y>彈射</c>至額外<y>2<c_stack>（每層+1）名<y>敵人</c>。",
 			"destination": "火星\n高等作戰中心\n6900西",
 			"date": "2056/12/8",
-			"story": "別看外表寒酸，FNA 200「究極光線槍」能量衝鋒槍可是把經久耐用的武器。\n\n使用定向能量科技，FNA 200能夠以極高的射速投射經過超級加熱的氣體。除此以外，FNA 200幾乎不需要外部蓄能，可以直接透過周遭空氣生成能量。",
+			"story": "儘管外表樸素，FNA 200 能量步槍「究極光線槍」可一點也不脆弱。\n\nFNA 200 使用了指向性能量技術，能夠以極高的射速發射超高溫氣體。除此之外，FNA 200 幾乎不需要蓄能，而是能直接從周遭的空氣產生能量。",
 			"priority": "<r>高優先</c>"
 		},
 		"diosFriend": {
@@ -1731,7 +1680,7 @@
 			"description": "承受<r>致命傷害</c>時將<b>消耗該道具</c>，使你以<g>40%生命值</c>的狀態復活，並賦予<g>2秒無敵狀態</c>。",
 			"destination": "地球\n藍丘\n6101 251號",
 			"date": "1993/7/3",
-			"story": "給你，它會讓你永遠記住迪奧。乾杯，敬有史以來最棒的小貓貓。雖然你並不完美，但我們全都愛你。請留下來繼續陪伴我們！"
+			"story": "給你，用這個你就能永遠記住迪奧了。乾杯，敬有史以來最棒的小貓貓。雖然你有缺點，但我們依然愛你。請留下來繼續陪伴我們！"
 		},
 		"ancientScepter": {
 			"name": "遠古權杖",
@@ -2226,6 +2175,22 @@
 			"priority": "<g>優先/易碎品</c>",
 			"story": "把這東西放在安全的地方吧。因為漁業法的關係，老獵人們在很久以前就不幹這行了，所以這東西是貨真價實的遺物。我親手幫它換了新的繩子，但我不建議你使用它。也許你能找到願意收下它的博物館？在過去，它的形狀應該有某種意義。或許外面有人還知道一些火星的歷史？\n我不忍心賣掉它，所以就想著不如把它交給可能會欣賞它的人。我以優先訂單寄出，希望它不會被弄丟。"
 		},
+		"evolvedNematocyst": {
+			"name": "進化型刺細胞噴嘴",
+			"pickup": "刺絲胞動物門美食。",
+			"description": "發射<y> 9 枚刺囊</c>，每枚造成<y> 400% 傷害</c>。",
+			"destination": "未知\n溫柔谷\n8800",
+			"date": "2056/12/31",
+			"story": "走遍這顆星球的山丘與山谷，我從未見過這種色澤的水母。這隻金色的幼體比其他同類更加溫馴，我發現牠正依附在某種增生的肉瘤上。這個景象看起來莫名熟悉，但那堆肉團散發出的熱度卻是我從未遇過的。這很危險。"
+		},
+		"minersPickaxe": {
+			"name": "遺失的十字鎬",
+			"pickup": "來自彼端的灼熱。",
+			"description": "攻擊時有<y> 15% <c_stack>（每層 +10%）</c>的機會召喚出一把十字鎬，造成<y> 220% 的總傷害</c>和<y>穿透敵人</c>的效果。",
+			"destination": "地球\n合眾國\n芝加哥大中央站",
+			"date": "2057/7/22",
+			"story": "不幸的是，我知道這是屬於誰的東西。他的孩子恐怕很難再見到他了。\n\n而我恐怕也沒機會再見到他了。"
+		},
 		"saturnianSteak": {
 			"name": "大塊野牛肉排",
 			"pickup": "提高生命再生值以及移動速度。"
@@ -2459,7 +2424,35 @@
 		"oRiftChest1.text": "儲存裝備。",
 		"oRiftChest1.name": "裂隙寶箱",
 		"oRiftChest2.text": "取回裝備。",
-		"oRiftChest2.name": "裂隙寶箱"
+		"oRiftChest2.name": "裂隙寶箱",
+		"oBarrel1.name" : "桶子",
+		"oBarrel2.name" : "大桶子",
+		"oBarrel3.name" : "門禁卡桶",
+		"oBlastdoorPanel.name" : "防爆門控制台",
+		"oChest4.name" : "自適應寶箱",
+		"oDeadman.name" : "膨脹的倖存者",
+		"oChestToxin.name" : "寶箱？",
+		"oGunchest.name" : "槍械寶箱",
+		"oDoor.name" : "門禁卡門",
+		"oFeralCage.name" : "貨運容器",
+		"oUsechest.name" : "奈米寶箱",
+		"oGauss.name" : "高斯加農炮",
+		"oMedbay.name" : "手術床",
+		"oMedcab.name" : "藥品櫃",
+		"oShop1.name" : "複合商店",
+		"oVendor.name" : "臨時道具小舖",
+		"oShrine1.name" : "機率聖壇",
+		"oShrine2.name" : "生命聖壇",
+		"oShrine3.name" : "小惡魔聖壇",
+		"oShrine3S.name" : "巨型小惡魔聖壇",
+		"oShrine4.name" : "遠古機率聖壇",
+		"oShrine5.name" : "天命聖壇",
+		"oTeleporter.name" : "傳送器",
+		"oTeleporterEpic.name" : "神聖傳送器",
+		"pInteractableCrate.name" : "統率貨箱",
+		"oDrone0Item.name" : "破損？？？",
+		"oCommand.name" : "觸點之光號導航系統",
+		"oDroneJellyItem.name" : "休眠果凍"
 	},
 	
 	"cost": {
@@ -2705,7 +2698,9 @@
 		"standffTrial.text": "繼續前進！",
 		"trialOneColossus.text": "第一道阻礙",
 		"trialWhipVagrant.text": "幽冥殘影",
-		"trialSoloScavenger.text": "忿恨的孤獨者"
+		"trialSoloScavenger.text": "忿恨的孤獨者",
+		"oDroneJelly.name" : "年輕果凍",
+		"oDroneJellyS.name" : "進化型年輕果凍"
 	},
 
 	"elite": {
@@ -3799,6 +3794,7 @@
 		"unlock_pilot_skin_s.name": "奇怪稜鏡：凝固汽油彈",
 		"unlock_mercenary_skin_s.name": "奇怪稜鏡：惡意",
 		"unlock_skin_prism_desc": "在世界中找到了此稜鏡。",
+		"unlock_robomando_skin_p.name" : "值得的等待",
 		"alt_kills_1_desc": "使用%s擊敗3,000名敵人。",
 		"alt_items_1_desc": "使用%s收集300個道具。",
 		"alt_stages_1_desc": "使用%s完成25個關卡。",
